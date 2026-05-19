@@ -1,3 +1,6 @@
 {
-    "scripts/py/proton2pass.py": "/usr/bin/proton2pass"
+    "sh": {
+        "md2pretty.sh": "/usr/bin/md2pretty"
+    },
+    "python": []
 }
