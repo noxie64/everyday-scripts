@@ -1,6 +1,7 @@
 {
     "sh": {
-        "md2pretty.sh": "/usr/bin/md2pretty"
+        "md2pretty.sh": "/usr/bin/md2pretty",
+        "fix4netportal.sh": "/usr/bin/fix4netportal"
     },
     "python": []
 }
