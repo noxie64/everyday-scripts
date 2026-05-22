@@ -12,4 +12,5 @@ while [[ "$(check_status)" != "portal" ]]; do
     sleep 1s
 done
 
-xdg-open http://neverssl.com
+echo "Opening portal..."
+xdg-open http://neverssl.com >/dev/null 2>&1
